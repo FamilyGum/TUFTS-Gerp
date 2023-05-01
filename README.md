@@ -1,11 +1,3 @@
-/**********************************************************
-* Project 4: gerp
-* CS 15
-* README
-* Johann Zhang jzhang48 Kabir Tripathi ktripa01
-*
-*********************************************************/
-
 Compile/run:
      - Compile using
             make gerp
