@@ -10,7 +10,7 @@ Depending on whether the user inputs a sensitive or insensitive query, the
 program will look for instances of the exact query or all variations of the 
 query.
 
-Acknowledgements: TAs
+Acknowledgements: the Internet
 
 _______________________________________________________________________________
 Files Provided: 
